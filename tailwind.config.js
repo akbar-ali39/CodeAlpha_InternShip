@@ -6,6 +6,7 @@ module.exports = {
     "./PersonalFinanceTracker/**/*.{js,jsx,ts,tsx}",
     "./TruthORDare/**/*.{js,jsx,ts,tsx}",
     "./MovieApp/**/*.{js,jsx,ts,tsx}",
+    "./Random_Quote_Generator/**/*.{js,jsx,ts,tsx}",
     "./src/**/*.{js,jsx,ts,tsx}",
     
   ],
